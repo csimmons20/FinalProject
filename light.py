@@ -50,7 +50,7 @@ def caught():
         s.sendmail(me, send_to_email, msg.as_string())
         s.quit()
         print('Email Sent!')
-    except SMTPException as error:
+    except:
         print('Error: Unable to send email alert.')
 
 
