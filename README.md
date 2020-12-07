@@ -49,7 +49,7 @@ Computer Hardware:
 
     - Camera Module: https://projects.raspberrypi.org/en/projects/getting-started-with-picamera/1
 
-    - Raspberry Pi Laser Tripwire: https://projects.raspberrypi.org/en/projects/getting-started-with-picamera/1
+    - Raspberry Pi Laser Tripwire: https://projects.raspberrypi.org/en/projects/laser-tripwire
 
     - Email Using Python: https://www.c-sharpcorner.com/article/how-to-send-the-captured-an-image-through-the-mail-using-raspberry-pi-and-python/
 
