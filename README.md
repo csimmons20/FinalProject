@@ -54,3 +54,4 @@ Computer Hardware:
     - Email Using Python: https://www.c-sharpcorner.com/article/how-to-send-the-captured-an-image-through-the-mail-using-raspberry-pi-and-python/
 
 # To see video, click the link below.
+https://www.youtube.com/watch?v=UiOXhuIsORw 
